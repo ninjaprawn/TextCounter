@@ -1,0 +1,9 @@
+Package: com.ninjaprawn.textcounter
+Name: TextCounter
+Depends: mobilesubstrate
+Version: 1.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: George Dan
+Author: George Dan
+Section: Tweaks
